@@ -33,18 +33,32 @@ EXPRESSION-DETECTOR/
 │
 
 ├── app.py                         <!--# Main application file-->
+
 ├── ai_judge.py                  <!--  # AI logic handler-->
+
 ├── ml_emotion.py                 <!-- # Emotion prediction logic-->
+
 ├── meme_loader.py                <!-- # Meme / response loader-->
+
 ├── emotion_model.h5             <!-- # Trained ML emotion model-->
+
 ├── haarcascade_frontalface_default.xml <!-- # Face detection model-->
+
 ├── meme.json                     <!-- # Expression-to-meme mapping-->
-├── test_ml.py                     # ML testing script-->
+
+├── test_ml.py                   <!--  # ML testing script-->
+
 ├── test_json.py                 <!--  # JSON testing script-->
+
 ├── requirements.txt              <!-- # Required Python libraries-->
+
 ├── static/                       <!-- # Static files (CSS, JS, images)-->
+
 ├── templates/                   <!--  # HTML templates-->
+
+
 └── README.md
+
 ---
 🧠 How It Works
 
@@ -130,8 +144,11 @@ Rishab Jaiswal
 
 ---
 📜 License
+
 This project is created for academic purposes.
+
 You may add an MIT License or institution-specific license if required.
+
 ---
 ---
                          Thankyou♥️♥️
