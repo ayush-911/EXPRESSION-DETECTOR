@@ -29,7 +29,9 @@ Group Project
 🗂️ Project Structure
 
 EXPRESSION-DETECTOR/
+
 │
+
 ├── app.py                         <!--# Main application file-->
 ├── ai_judge.py                  <!--  # AI logic handler-->
 ├── ml_emotion.py                 <!-- # Emotion prediction logic-->
@@ -45,6 +47,7 @@ EXPRESSION-DETECTOR/
 └── README.md
 ---
 🧠 How It Works
+
 Captures image or video input
 Detects faces using Haar Cascade
 Extracts facial features
