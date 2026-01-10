@@ -1,20 +1,33 @@
 # FACE_EXPRESSION_DETECTION
 Expression Detector is a group project focused on facial expression recognition using computer vision and machine learning.
+
 The system detects human facial expressions from images or live camera input and classifies emotions using a trained deep-learning model.
+
 This project demonstrates the practical use of AI + OpenCV + Python in understanding human emotions.
 ---
 📌 Project Type
+
 Group Project
+
 🚀 Features
+
 🎭 Detects facial expressions (emotion recognition)
+
 📸 Supports image input / webcam input
+
 🤖 Machine learning–based emotion classification
+
 🧠 Uses a pre-trained deep learning model (emotion_model.h5)
+
 👤 Face detection using Haar Cascade (OpenCV)
+
 🌐 Simple web-based interface
+
 🧪 Includes testing scripts for validation
+
 ---
 🗂️ Project Structure
+
 EXPRESSION-DETECTOR/
 │
 ├── app.py                         <!--# Main application file-->
@@ -84,20 +97,34 @@ python test_json.py
 ```
 ---
 🎯 Applications
+
 Human–Computer Interaction
+
 Emotion-aware systems
+
 AI-based entertainment apps
+
 Educational AI projects
+
 Smart user experience systems
+
 ---
 👥 About the Group
+
 This project was developed as a group project by students with a shared interest in Artificial Intelligence, Machine Learning, and Computer Vision.
+
 Each member contributed to different aspects such as model handling, application logic, testing, and documentation.
+
 Group Members
+
 Aditya Gupta 
+
 Ayush kumar Trivedi 
+
 Aryan Gupta 
+
 Rishab Jaiswal
+
 ---
 📜 License
 This project is created for academic purposes.
